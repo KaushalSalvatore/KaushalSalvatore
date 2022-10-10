@@ -1,4 +1,4 @@
-[![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif)]
+![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif)]
 <h1 align="center">Hi 👋, I'm Kaushal Pandey</h1>
 <h3 align="center">A passionate Mobile and Web Application developer and learning DL|ML</h3>
 
